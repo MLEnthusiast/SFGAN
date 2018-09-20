@@ -5,4 +5,4 @@ Code for paper **Semantic-Fusion GANs for Semi-Supervised Satellite Image Classi
 
 Code is **available now**.
 
-A cleaner and more commented version of the code with the instructions about downloading data set will be made available before the starts of the ICIP conference. 
+A cleaner and more commented version of the code with the instructions about downloading data set will be made available before the start of the ICIP conference. 
