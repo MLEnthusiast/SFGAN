@@ -5,4 +5,12 @@ Code for paper **Semantic-Fusion GANs for Semi-Supervised Satellite Image Classi
 
 Code is **available now**.
 
-A cleaner and more commented version of the code with the instructions about downloading data set will be made available before the start of the ICIP conference. 
+## Instructions
+1. First download the [EuroSAT](http://madm.dfki.de/files/sentinel/EuroSAT.zip) data set and extract the images.
+2. Run the file_reader.m to convert the images into a .mat file. This will be used as input for training the network.
+3. Run sfgan_train_eval.py to train the network.
+
+N.B. Python 3 is recommended for running this code as the batching gives errornoues results with lower versions of Python.
+
+A commented version of the code will be updated soon.
+
