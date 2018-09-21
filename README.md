@@ -16,7 +16,9 @@ Code is **available now**.
 
 N.B. Python 3 is recommended for running this code as the batching gives errornoues results with lower versions of Python. Haven't tried with other versions of Tensorflow.
 
-If you want to cite our paper then please use this bibtex:
+## Citation
+If you use this code for your research, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/8451836/)
+```
 @inproceedings{roy2018semantic,
   title={Semantic-Fusion Gans for Semi-Supervised Satellite Image Classification},
   author={Roy, Subhankar and Sangineto, Enver and Sebe, Nicu and Demir, Beg{\"u}m},
@@ -25,6 +27,6 @@ If you want to cite our paper then please use this bibtex:
   year={2018},
   organization={IEEE}
 }
-
+```
 A commented version of the code will be updated soon.
 
