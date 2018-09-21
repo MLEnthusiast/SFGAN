@@ -10,7 +10,11 @@ Code is **available now**.
 2. Run the file_reader.m to convert the images into a .mat file. This will be used as input for training the network.
 3. Run sfgan_train_eval.py to train the network.
 
-N.B. Python 3 is recommended for running this code as the batching gives errornoues results with lower versions of Python.
+## Requirements
+1. Tensorflow 1.5
+2. Python 3.5
+
+N.B. Python 3 is recommended for running this code as the batching gives errornoues results with lower versions of Python. Haven't tried with other versions of Tensorflow.
 
 A commented version of the code will be updated soon.
 
