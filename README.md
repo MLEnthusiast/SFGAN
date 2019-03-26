@@ -1,6 +1,6 @@
 # SFGAN: Semantic Fusion GAN for semi-supervised learning
 
-Code for paper [**Semantic-Fusion GANs for Semi-Supervised Satellite Image Classification**](https://ieeexplore.ieee.org/abstract/document/8451836/) accepted in the International Conference on Image Processing (**ICIP**) to be held in *Athens, Greece* in October, 2018.
+Code for paper [**Semantic-Fusion GANs for Semi-Supervised Satellite Image Classification**](https://ieeexplore.ieee.org/abstract/document/8451836/) accepted in the International Conference on Image Processing (**ICIP**) held in *Athens, Greece* in October, 2018.
 
 Code is **available now**.
 
